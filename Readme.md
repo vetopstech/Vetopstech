@@ -22,7 +22,7 @@ This space is my living lab: where I fail, learn, make mistakes, learn, break th
 
 ## 🧩 Projects
 | Category | Description |
-|-----------|-------------|-------------|
+|-----------|-------------|
 | 🧮 Python > Scripts for automation, parsing, and reporting |
 | 🗄️ SQL > Queries, database design, and analytics practice |
 | 🏠 Home Lab > Windows Server 2022 + Linux domain environment |
