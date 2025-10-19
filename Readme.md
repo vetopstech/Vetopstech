@@ -9,7 +9,7 @@ This space is my living lab: where I fail, learn, make mistakes, learn, break th
 - **Python** – automation scripts, data parsing, PowerShell helpers  
 - **SQL** – query optimization and analytics projects
 - **Power BI** – visualization and data analytics
-- **Windows Server 2022 / Linux Home Lab** – domain services, DHCP, DNS, AD, 
+- **Windows Server 2022 / Linux Home Lab** – domain services, DHCP, DNS, AD
 - **Labtop Refurb and Repurpose** – repurpose computer hardware (old chromebook into Xubuntu, upgrade RAM, remove HDD and insert into case for external) 
 - **Security+, Network+, and Azure Fundamentals** – certification journey  
 
